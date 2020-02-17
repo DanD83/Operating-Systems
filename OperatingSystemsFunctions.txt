@@ -1,0 +1,1 @@
+One nice feature or function of the Ubuntu 13.10 operating system is the Keyboard Language Selector. You can swap between different language keyboards easily with a notification button. Shortcuts may also be made to switch language keyboards.
